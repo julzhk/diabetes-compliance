@@ -12,4 +12,9 @@ h3 {
 }
 header, footer, #downloads {
   visibility: hidden;
+  display: none;
+}
+header {
+  margin: -36px;
+
 }
