@@ -49,5 +49,7 @@ Mimi has a friendly encouraging personality - she wants you to take your medicin
 Mimi is designed to help with type 2 diabetes but type 1 diabetes coming soon! 
 
 {% raw %}
+
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd-gT8beLEC4vrQGBur-cSWGwTmDB2JI4g_ZccE_DrFF-qcDg/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+
 {% endraw %}
