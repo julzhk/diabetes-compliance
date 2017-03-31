@@ -2,5 +2,14 @@
 ---
 
 @import "{{ site.theme }}";
-h1 { text-align: center !important; }
-h3 { text-color: #06275b }
+h1 { 
+  text-align: center !important; 
+  line-height: 100%;
+}
+h3 { 
+  text-color: #06275b !important;
+  color: #334;
+}
+footer {
+  visibility: hidden;
+}
