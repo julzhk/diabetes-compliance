@@ -1,27 +1,22 @@
-# Meet Mimi!
+# You won't forget to take your diabetes medications ever again
 
-# Mimi is an autonomous chatbot that uses natural language processing and games to gently remind you to take your daily medication
+Do you ever miss your diabetes medications? You are not alone. About 50% of all people taking regular medications miss some of the doses. As a result sufferers are more likely to get complications of diabetes such as heart, kidney, eye and nerve problems.
 
-Do you ever miss your medications? 
-
-You are not alone. 
-
-About 50% of all people taking regular medications miss some of the doses. 
-
-Mimi provides you with a daily reminder keeping track as well as encouraging you by playing daily interactive games and quizzes
+Mimi provides you with a daily reminder keeping track as well as encouraging you by playing daily interactive games and quizzes.
 
 As simple as that!
 
+# Meet Mimi 
+
+## Mimi is an autonomous chatbot that uses natural language processing and games to gently remind you to take your daily diabetes medication
+
+Mimi is a Chatbot - a program that can hold a natural conversation with a human. She provides you with a daily reminder, keeps track of how well you are taking your medications as well as encouraging you by playing games, setting quizzes so you can learn more about and through other activities
 
 ## Mimi is smart!
 
-Mimi is a Chatbot - a program that can hold a natural conversation with a human. 
+Mimi is smart, and has a friendly encouraging personality - she wants you to take your medicines and with reward you if you do.
 
-She uses your usual message platform - currently just Facebook messenger or text messages, but others to follow soon
-
-Mimi has a friendly encouraging personality - she wants you to take your medicines and with reward you if you do.
-
-# "You will never forget to take your medications again!”
+She uses your usual message platform - currently just Facebook messenger and text messages, but others to follow soon
 
 ## How does this help you?
 
@@ -33,7 +28,7 @@ Mimi has a friendly encouraging personality - she wants you to take your medicin
 
 ### Improve knowledge
 
-- Knowing about your Diabetes is important - and Mimi can define jargon and provide information
+- Knowing about your diabetes is important - and Mimi can define jargon and provide information
 - Mimi will periodically quiz you on your knowledge - scoring points and learning new things.
 - Use Mimi to remember events - tracking your mood, activities, and other relevant details whenever you like!
 
