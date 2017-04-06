@@ -1,11 +1,6 @@
-1 [diabetes pills] (https://julzhk.github.io/diabetes-compliance/assets/img/pills-dispenser-966334_1280.png)
+![Pill box with diary](https://julzhk.github.io/diabetes-compliance/assets/img/pills-dispenser-966334_1280.png "A Digital Reminder to take your medicine")
 
-2 <img src="https://julzhk.github.io/diabetes-compliance/assets/img/pills-dispenser-966334_1280.png" />
-
-3 (https://julzhk.github.io/diabetes-compliance/assets/img/pills-dispenser-966334_1280.png)
-
-4b ![alt text](https://julzhk.github.io/diabetes-compliance/assets/img/pills-dispenser-966334_1280.png "Logo Title Text 1")
-# You won't forget to take your diabetes medications ever againhttps://julzhk.github.io/diabetes-compliance/assets/img/pills-dispenser-966334_1280.png "title")
+# You won't forget to take your diabetes medications ever again
 
 Do you ever miss your diabetes medications? You are not alone. About 50% of all people taking regular medications miss some of the doses. As a result sufferers are more likely to get complications of diabetes such as heart, kidney, eye and nerve problems.
 
