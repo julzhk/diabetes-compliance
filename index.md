@@ -10,6 +10,8 @@ As simple as that!
 
 # Meet Mimi 
 
+![Mimi](https://julzhk.github.io/diabetes-compliance/assets/img/avatar-2026510_640.png "A Digital Chatbot to Remind you to take your medicine")
+
 ## Mimi is an autonomous chatbot that uses natural language processing and games to gently remind you to take your daily diabetes medication
 
 Mimi is a Chatbot - a program that can hold a natural conversation with a human. She provides you with a daily reminder, keeps track of how well you are taking your medications as well as encouraging you by playing games, setting quizzes so you can learn more about and through other activities
