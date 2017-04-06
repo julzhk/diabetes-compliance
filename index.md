@@ -1,3 +1,4 @@
+![diabetes pills] (https://github.com/julzhk/diabetes-compliance/blob/master/assets/img/pills-dispenser-966334_1280.png)
 # You won't forget to take your diabetes medications ever again
 
 Do you ever miss your diabetes medications? You are not alone. About 50% of all people taking regular medications miss some of the doses. As a result sufferers are more likely to get complications of diabetes such as heart, kidney, eye and nerve problems.
