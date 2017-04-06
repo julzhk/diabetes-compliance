@@ -10,7 +10,7 @@ As simple as that!
 
 # Meet Mimi 
 
-![Mimi](https://julzhk.github.io/diabetes-compliance/assets/img/avatar-2026510_640.png "A Digital Chatbot to Remind you to take your medicine")
+<img src="https://julzhk.github.io/diabetes-compliance/assets/img/avatar-2026510_640.png" width="50%">
 
 ## Mimi is an autonomous chatbot that uses natural language processing and games to gently remind you to take your daily diabetes medication
 
