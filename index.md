@@ -4,7 +4,7 @@
 
 3 (https://julzhk.github.io/diabetes-compliance/assets/img/pills-dispenser-966334_1280.png)
 
-4 ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+4b ![alt text](https://julzhk.github.io/diabetes-compliance/assets/img/pills-dispenser-966334_1280.png "Logo Title Text 1")
 # You won't forget to take your diabetes medications ever againhttps://julzhk.github.io/diabetes-compliance/assets/img/pills-dispenser-966334_1280.png "title")
 
 Do you ever miss your diabetes medications? You are not alone. About 50% of all people taking regular medications miss some of the doses. As a result sufferers are more likely to get complications of diabetes such as heart, kidney, eye and nerve problems.
