@@ -24,13 +24,13 @@ body {
 }
 
 .headline h1 {
-    font-size: 130px;
+    font-size: 4em;
     background: #fff;
     background: rgba(255,255,255,0.9);
 }
 
 .headline h2 {
-    font-size: 77px;
+    font-size: 3em;
     background: #fff;
     background: rgba(255,255,255,0.9);
 }
@@ -61,11 +61,11 @@ footer {
 
 @media(max-width:1200px) {
     .headline h1 {
-        font-size: 140px;
+        font-size: 3.5em;
     }
 
     .headline h2 {
-        font-size: 63px;
+        font-size: 2.75em;
     }
 
     .featurette-divider {
@@ -87,11 +87,11 @@ footer {
 
 @media(max-width:991px) {
     .headline h1 {
-        font-size: 105px;
+        font-size: 3em;
     }
 
     .headline h2 {
-        font-size: 50px;
+        font-size: 2em;
     }
 
     .featurette-divider {
@@ -131,11 +131,11 @@ footer {
 
 @media(max-width:668px) {
     .headline h1 {
-        font-size: 70px;
+        font-size: 2.5em;
     }
 
     .headline h2 {
-        font-size: 32px;
+        font-size: 2.25em;
     }
 
     .featurette-divider {
@@ -149,11 +149,11 @@ footer {
     }
 
     .headline h1 {
-        font-size: 60px;
+        font-size: 1.75em;
     }
 
     .headline h2 {
-        font-size: 30px;
+        font-size: 1.25em;
     }
 }
 
@@ -176,3 +176,8 @@ footer {
         margin-left: 0;
     }
 }
+
+
+.navbar-inverse {
+    background-color: #345;
+    }
